@@ -40,7 +40,7 @@
 
 ## About The Project
 
- <img src="preview.png" alt="Logo" width="700" height="1633">
+ <img src="preview.png" alt="Logo">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
