@@ -5,17 +5,15 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/mohammedfawzey/nuxt_ecommerce_pexels/blob/main/img/favicon/Web/icons8-shopping-mall-color-96.png">
-    <img src="https://github.com/mohammedfawzey/.Store_eCommerce/blob/master/favicon.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/mohammedfawzey/typio/blob/main/favicon.png">
+    <img src="favicon.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Nuxt_eCommerce_Project</h3>
+  <h3 align="center">Nuxt_TypingTest_Project</h3>
 
   <p align="center">
-    An awesome eCommerce Website using Nuxtjs
     <br />
-    <br />
-    <a href="https://storeio.netlify.app/">View Demo</a>
+    <a href="https://typio.netlify.app/">View Demo</a>
   </p>
 </div>
 
@@ -42,7 +40,7 @@
 
 ## About The Project
 
- <img src="preview/preview-light (Medium).png" alt="Logo" width="700" height="1633">
+ <img src="preview.png" alt="Logo" width="700" height="1633">
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
